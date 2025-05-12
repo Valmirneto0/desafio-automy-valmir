@@ -1,6 +1,4 @@
-## Escreva aqui sua documentação
-
-- Nome:
-- CPF:
-- Email:
-- Número:
+- Nome: Valmir Carlos Cerutti Neto
+- CPF: 090.454.516-46
+- Email: vcceruttineto@gmail.com
+- Número: 31 9 8668-0288
